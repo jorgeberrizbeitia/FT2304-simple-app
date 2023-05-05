@@ -1,0 +1,11 @@
+<div>
+
+  <h3>Lista de Pokemon</h3>
+
+  {{#each this.allPokemon}}
+    <li>
+      <a href="/pokemon/{{this._id}}">{{this.name}}</a>
+    </li>
+  {{/each}}
+
+</div>

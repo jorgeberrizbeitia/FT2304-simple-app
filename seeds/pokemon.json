@@ -1,0 +1,908 @@
+[
+  {
+    "number": 1,
+    "name": "bulbasaur",
+    "url": "https://pokeapi.co/api/v2/1.svg",
+    "type": ["Grass", "Poison"]
+  },
+  {
+    "number": 2,
+    "name": "ivysaur",
+    "url": "https://tinyurl.com/ironhack-pokemons/2.svg",
+    "type": ["Grass", "Poison"]
+  },
+  {
+    "number": 3,
+    "name": "venusaur",
+    "url": "https://tinyurl.com/ironhack-pokemons/3.svg",
+    "type": ["Grass", "Poison"]
+  },
+  {
+    "number": 4,
+    "name": "charmander",
+    "url": "https://tinyurl.com/ironhack-pokemons/4.svg",
+    "type": ["Fire"]
+  },
+  {
+    "number": 5,
+    "name": "charmeleon",
+    "url": "https://tinyurl.com/ironhack-pokemons/5.svg",
+    "type": ["Fire"]
+  },
+  {
+    "number": 6,
+    "name": "charizard",
+    "url": "https://tinyurl.com/ironhack-pokemons/6.svg",
+    "type": ["Fire", "Flying"]
+  },
+  {
+    "number": 7,
+    "name": "squirtle",
+    "url": "https://tinyurl.com/ironhack-pokemons/7.svg",
+    "type": ["Water"]
+  },
+  {
+    "number": 8,
+    "name": "wartortle",
+    "url": "https://tinyurl.com/ironhack-pokemons/8.svg",
+    "type": ["Water"]
+  },
+  {
+    "number": 9,
+    "name": "blastoise",
+    "url": "https://tinyurl.com/ironhack-pokemons/9.svg",
+    "type": ["Water"]
+  },
+  {
+    "number": 10,
+    "name": "caterpie",
+    "url": "https://tinyurl.com/ironhack-pokemons/10.svg",
+    "type": ["Bug"]
+  },
+  {
+    "number": 11,
+    "name": "metapod",
+    "url": "https://tinyurl.com/ironhack-pokemons/11.svg",
+    "type": ["Bug"]
+  },
+  {
+    "number": 12,
+    "name": "butterfree",
+    "url": "https://tinyurl.com/ironhack-pokemons/12.svg",
+    "type": ["Bug", "Flying"]
+  },
+  {
+    "number": 13,
+    "name": "weedle",
+    "url": "https://tinyurl.com/ironhack-pokemons/13.svg",
+    "type": ["Bug", "Poison"]
+  },
+  {
+    "number": 14,
+    "name": "kakuna",
+    "url": "https://tinyurl.com/ironhack-pokemons/14.svg",
+    "type": ["Bug", "Poison"]
+  },
+  {
+    "number": 15,
+    "name": "beedrill",
+    "url": "https://tinyurl.com/ironhack-pokemons/15.svg",
+    "type": ["Bug", "Poison"]
+  },
+  {
+    "number": 16,
+    "name": "pidgey",
+    "url": "https://tinyurl.com/ironhack-pokemons/16.svg",
+    "type": ["Normal", "Flying"]
+  },
+  {
+    "number": 17,
+    "name": "pidgeotto",
+    "url": "https://tinyurl.com/ironhack-pokemons/17.svg",
+    "type": ["Normal", "Flying"]
+  },
+  {
+    "number": 18,
+    "name": "pidgeot",
+    "url": "https://tinyurl.com/ironhack-pokemons/18.svg",
+    "type": ["Normal", "Flying"]
+  },
+  {
+    "number": 19,
+    "name": "rattata",
+    "url": "https://tinyurl.com/ironhack-pokemons/19.svg",
+    "type": ["Normal"]
+  },
+  {
+    "number": 20,
+    "name": "raticate",
+    "url": "https://tinyurl.com/ironhack-pokemons/20.svg",
+    "type": ["Normal"]
+  },
+  {
+    "number": 21,
+    "name": "spearow",
+    "url": "https://tinyurl.com/ironhack-pokemons/21.svg",
+    "type": ["Normal", "Flying"]
+  },
+  {
+    "number": 22,
+    "name": "fearow",
+    "url": "https://tinyurl.com/ironhack-pokemons/22.svg",
+    "type": ["Normal", "Flying"]
+  },
+  {
+    "number": 23,
+    "name": "ekans",
+    "url": "https://tinyurl.com/ironhack-pokemons/23.svg",
+    "type": ["Poison"]
+  },
+  {
+    "number": 24,
+    "name": "arbok",
+    "url": "https://tinyurl.com/ironhack-pokemons/24.svg",
+    "type": ["Poison"]
+  },
+  {
+    "number": 25,
+    "name": "pikachu",
+    "url": "https://tinyurl.com/ironhack-pokemons/25.svg",
+    "type": ["Electric"]
+  },
+  {
+    "number": 26,
+    "name": "raichu",
+    "url": "https://tinyurl.com/ironhack-pokemons/26.svg",
+    "type": ["Electric"]
+  },
+  {
+    "number": 27,
+    "name": "sandshrew",
+    "url": "https://tinyurl.com/ironhack-pokemons/27.svg",
+    "type": ["Ground"]
+  },
+  {
+    "number": 28,
+    "name": "sandslash",
+    "url": "https://tinyurl.com/ironhack-pokemons/28.svg",
+    "type": ["Ground"]
+  },
+  {
+    "number": 29,
+    "name": "nidoran-f",
+    "url": "https://tinyurl.com/ironhack-pokemons/29.svg",
+    "type": ["Poison"]
+  },
+  {
+    "number": 30,
+    "name": "nidorina",
+    "url": "https://tinyurl.com/ironhack-pokemons/30.svg",
+    "type": ["Poison"]
+  },
+  {
+    "number": 31,
+    "name": "nidoqueen",
+    "url": "https://tinyurl.com/ironhack-pokemons/31.svg",
+    "type": ["Poison", "Ground"]
+  },
+  {
+    "number": 32,
+    "name": "nidoran-m",
+    "url": "https://tinyurl.com/ironhack-pokemons/32.svg",
+    "type": ["Poison"]
+  },
+  {
+    "number": 33,
+    "name": "nidorino",
+    "url": "https://tinyurl.com/ironhack-pokemons/33.svg",
+    "type": ["Poison"]
+  },
+  {
+    "number": 34,
+    "name": "nidoking",
+    "url": "https://tinyurl.com/ironhack-pokemons/34.svg",
+    "type": ["Poison", "Ground"]
+  },
+  {
+    "number": 35,
+    "name": "clefairy",
+    "url": "https://tinyurl.com/ironhack-pokemons/35.svg",
+    "type": ["Fairy"]
+  },
+  {
+    "number": 36,
+    "name": "clefable",
+    "url": "https://tinyurl.com/ironhack-pokemons/36.svg",
+    "type": ["Fairy"]
+  },
+  {
+    "number": 37,
+    "name": "vulpix",
+    "url": "https://tinyurl.com/ironhack-pokemons/37.svg",
+    "type": ["Fire"]
+  },
+  {
+    "number": 38,
+    "name": "ninetales",
+    "url": "https://tinyurl.com/ironhack-pokemons/38.svg",
+    "type": ["Fire"]
+  },
+  {
+    "number": 39,
+    "name": "jigglypuff",
+    "url": "https://tinyurl.com/ironhack-pokemons/39.svg",
+    "type": ["Normal", "Fairy"]
+  },
+  {
+    "number": 40,
+    "name": "wigglytuff",
+    "url": "https://tinyurl.com/ironhack-pokemons/40.svg",
+    "type": ["Normal", "Fairy"]
+  },
+  {
+    "number": 41,
+    "name": "zubat",
+    "url": "https://tinyurl.com/ironhack-pokemons/41.svg",
+    "type": ["Poison", "Flying"]
+  },
+  {
+    "number": 42,
+    "name": "golbat",
+    "url": "https://tinyurl.com/ironhack-pokemons/42.svg",
+    "type": ["Poison", "Flying"]
+  },
+  {
+    "number": 43,
+    "name": "oddish",
+    "url": "https://tinyurl.com/ironhack-pokemons/43.svg",
+    "type": ["Grass", "Poison"]
+  },
+  {
+    "number": 44,
+    "name": "gloom",
+    "url": "https://tinyurl.com/ironhack-pokemons/44.svg",
+    "type": ["Grass", "Poison"]
+  },
+  {
+    "number": 45,
+    "name": "vileplume",
+    "url": "https://tinyurl.com/ironhack-pokemons/45.svg",
+    "type": ["Grass", "Poison"]
+  },
+  {
+    "number": 46,
+    "name": "paras",
+    "url": "https://tinyurl.com/ironhack-pokemons/46.svg",
+    "type": ["Bug", "Grass"]
+  },
+  {
+    "number": 47,
+    "name": "parasect",
+    "url": "https://tinyurl.com/ironhack-pokemons/47.svg",
+    "type": ["Bug", "Grass"]
+  },
+  {
+    "number": 48,
+    "name": "venonat",
+    "url": "https://tinyurl.com/ironhack-pokemons/48.svg",
+    "type": ["Bug", "Poison"]
+  },
+  {
+    "number": 49,
+    "name": "venomoth",
+    "url": "https://tinyurl.com/ironhack-pokemons/49.svg",
+    "type": ["Bug", "Poison"]
+  },
+  {
+    "number": 50,
+    "name": "diglett",
+    "url": "https://tinyurl.com/ironhack-pokemons/50.svg",
+    "type": ["Ground"]
+  },
+  {
+    "number": 51,
+    "name": "dugtrio",
+    "url": "https://tinyurl.com/ironhack-pokemons/51.svg",
+    "type": ["Ground"]
+  },
+  {
+    "number": 52,
+    "name": "meowth",
+    "url": "https://tinyurl.com/ironhack-pokemons/52.svg",
+    "type": ["Normal"]
+  },
+  {
+    "number": 53,
+    "name": "persian",
+    "url": "https://tinyurl.com/ironhack-pokemons/53.svg",
+    "type": ["Normal"]
+  },
+  {
+    "number": 54,
+    "name": "psyduck",
+    "url": "https://tinyurl.com/ironhack-pokemons/54.svg",
+    "type": ["Water"]
+  },
+  {
+    "number": 55,
+    "name": "golduck",
+    "url": "https://tinyurl.com/ironhack-pokemons/55.svg",
+    "type": ["Water"]
+  },
+  {
+    "number": 56,
+    "name": "mankey",
+    "url": "https://tinyurl.com/ironhack-pokemons/56.svg",
+    "type": ["Fighting"]
+  },
+  {
+    "number": 57,
+    "name": "primeape",
+    "url": "https://tinyurl.com/ironhack-pokemons/57.svg",
+    "type": ["Fighting"]
+  },
+  {
+    "number": 58,
+    "name": "growlithe",
+    "url": "https://tinyurl.com/ironhack-pokemons/58.svg",
+    "type": ["Fire"]
+  },
+  {
+    "number": 59,
+    "name": "arcanine",
+    "url": "https://tinyurl.com/ironhack-pokemons/59.svg",
+    "type": ["Fire"]
+  },
+  {
+    "number": 60,
+    "name": "poliwag",
+    "url": "https://tinyurl.com/ironhack-pokemons/60.svg",
+    "type": ["Water"]
+  },
+  {
+    "number": 61,
+    "name": "poliwhirl",
+    "url": "https://tinyurl.com/ironhack-pokemons/61.svg",
+    "type": ["Water"]
+  },
+  {
+    "number": 62,
+    "name": "poliwrath",
+    "url": "https://tinyurl.com/ironhack-pokemons/62.svg",
+    "type": ["Water", "Fighting"]
+  },
+  {
+    "number": 63,
+    "name": "abra",
+    "url": "https://tinyurl.com/ironhack-pokemons/63.svg",
+    "type": ["Psychic"]
+  },
+  {
+    "number": 64,
+    "name": "kadabra",
+    "url": "https://tinyurl.com/ironhack-pokemons/64.svg",
+    "type": ["Psychic"]
+  },
+  {
+    "number": 65,
+    "name": "alakazam",
+    "url": "https://tinyurl.com/ironhack-pokemons/65.svg",
+    "type": ["Psychic"]
+  },
+  {
+    "number": 66,
+    "name": "machop",
+    "url": "https://tinyurl.com/ironhack-pokemons/66.svg",
+    "type": ["Fighting"]
+  },
+  {
+    "number": 67,
+    "name": "machoke",
+    "url": "https://tinyurl.com/ironhack-pokemons/67.svg",
+    "type": ["Fighting"]
+  },
+  {
+    "number": 68,
+    "name": "machamp",
+    "url": "https://tinyurl.com/ironhack-pokemons/68.svg",
+    "type": ["Fighting"]
+  },
+  {
+    "number": 69,
+    "name": "bellsprout",
+    "url": "https://tinyurl.com/ironhack-pokemons/69.svg",
+    "type": ["Grass", "Poison"]
+  },
+  {
+    "number": 70,
+    "name": "weepinbell",
+    "url": "https://tinyurl.com/ironhack-pokemons/70.svg",
+    "type": ["Grass", "Poison"]
+  },
+  {
+    "number": 71,
+    "name": "victreebel",
+    "url": "https://tinyurl.com/ironhack-pokemons/71.svg",
+    "type": ["Grass", "Poison"]
+  },
+  {
+    "number": 72,
+    "name": "tentacool",
+    "url": "https://tinyurl.com/ironhack-pokemons/72.svg",
+    "type": ["Water", "Poison"]
+  },
+  {
+    "number": 73,
+    "name": "tentacruel",
+    "url": "https://tinyurl.com/ironhack-pokemons/73.svg",
+    "type": ["Water", "Poison"]
+  },
+  {
+    "number": 74,
+    "name": "geodude",
+    "url": "https://tinyurl.com/ironhack-pokemons/74.svg",
+    "type": ["Rock", "Ground"]
+  },
+  {
+    "number": 75,
+    "name": "graveler",
+    "url": "https://tinyurl.com/ironhack-pokemons/75.svg",
+    "type": ["Rock", "Ground"]
+  },
+  {
+    "number": 76,
+    "name": "golem",
+    "url": "https://tinyurl.com/ironhack-pokemons/76.svg",
+    "type": ["Rock", "Ground"]
+  },
+  {
+    "number": 77,
+    "name": "ponyta",
+    "url": "https://tinyurl.com/ironhack-pokemons/77.svg",
+    "type": ["Fire"]
+  },
+  {
+    "number": 78,
+    "name": "rapidash",
+    "url": "https://tinyurl.com/ironhack-pokemons/78.svg",
+    "type": ["Fire"]
+  },
+  {
+    "number": 79,
+    "name": "slowpoke",
+    "url": "https://tinyurl.com/ironhack-pokemons/79.svg",
+    "type": ["Water", "Psychic"]
+  },
+  {
+    "number": 80,
+    "name": "slowbro",
+    "url": "https://tinyurl.com/ironhack-pokemons/80.svg",
+    "type": ["Water", "Psychic"]
+  },
+  {
+    "number": 81,
+    "name": "magnemite",
+    "url": "https://tinyurl.com/ironhack-pokemons/81.svg",
+    "type": ["Electric", "Steel"]
+  },
+  {
+    "number": 82,
+    "name": "magneton",
+    "url": "https://tinyurl.com/ironhack-pokemons/82.svg",
+    "type": ["Electric", "Steel"]
+  },
+  {
+    "number": 83,
+    "name": "farfetchd",
+    "url": "https://tinyurl.com/ironhack-pokemons/83.svg",
+    "type": ["Normal", "Flying"]
+  },
+  {
+    "number": 84,
+    "name": "doduo",
+    "url": "https://tinyurl.com/ironhack-pokemons/84.svg",
+    "type": ["Normal", "Flying"]
+  },
+  {
+    "number": 85,
+    "name": "dodrio",
+    "url": "https://tinyurl.com/ironhack-pokemons/85.svg",
+    "type": ["Normal", "Flying"]
+  },
+  {
+    "number": 86,
+    "name": "seel",
+    "url": "https://tinyurl.com/ironhack-pokemons/86.svg",
+    "type": ["Water"]
+  },
+  {
+    "number": 87,
+    "name": "dewgong",
+    "url": "https://tinyurl.com/ironhack-pokemons/87.svg",
+    "type": ["Water", "Ice"]
+  },
+  {
+    "number": 88,
+    "name": "grimer",
+    "url": "https://tinyurl.com/ironhack-pokemons/88.svg",
+    "type": ["Poison"]
+  },
+  {
+    "number": 89,
+    "name": "muk",
+    "url": "https://tinyurl.com/ironhack-pokemons/89.svg",
+    "type": ["Poison"]
+  },
+  {
+    "number": 90,
+    "name": "shellder",
+    "url": "https://tinyurl.com/ironhack-pokemons/90.svg",
+    "type": ["Water"]
+  },
+  {
+    "number": 91,
+    "name": "cloyster",
+    "url": "https://tinyurl.com/ironhack-pokemons/91.svg",
+    "type": ["Water", "Ice"]
+  },
+  {
+    "number": 92,
+    "name": "gastly",
+    "url": "https://tinyurl.com/ironhack-pokemons/92.svg",
+    "type": ["Ghost", "Poison"]
+  },
+  {
+    "number": 93,
+    "name": "haunter",
+    "url": "https://tinyurl.com/ironhack-pokemons/93.svg",
+    "type": ["Ghost", "Poison"]
+  },
+  {
+    "number": 94,
+    "name": "gengar",
+    "url": "https://tinyurl.com/ironhack-pokemons/94.svg",
+    "type": ["Ghost", "Poison"]
+  },
+  {
+    "number": 95,
+    "name": "onix",
+    "url": "https://tinyurl.com/ironhack-pokemons/95.svg",
+    "type": ["Rock", "Ground"]
+  },
+  {
+    "number": 96,
+    "name": "drowzee",
+    "url": "https://tinyurl.com/ironhack-pokemons/96.svg",
+    "type": ["Psychic"]
+  },
+  {
+    "number": 97,
+    "name": "hypno",
+    "url": "https://tinyurl.com/ironhack-pokemons/97.svg",
+    "type": ["Psychic"]
+  },
+  {
+    "number": 98,
+    "name": "krabby",
+    "url": "https://tinyurl.com/ironhack-pokemons/98.svg",
+    "type": ["Water"]
+  },
+  {
+    "number": 99,
+    "name": "kingler",
+    "url": "https://tinyurl.com/ironhack-pokemons/99.svg",
+    "type": ["Water"]
+  },
+  {
+    "number": 100,
+    "name": "voltorb",
+    "url": "https://tinyurl.com/ironhack-pokemons/100.svg/",
+    "type": ["Electric"]
+  },
+  {
+    "number": 101,
+    "name": "electrode",
+    "url": "https://tinyurl.com/ironhack-pokemons/101.svg/",
+    "type": ["Electric"]
+  },
+  {
+    "number": 102,
+    "name": "exeggcute",
+    "url": "https://tinyurl.com/ironhack-pokemons/102.svg/",
+    "type": ["Grass", "Psychic"]
+  },
+  {
+    "number": 103,
+    "name": "exeggutor",
+    "url": "https://tinyurl.com/ironhack-pokemons/103.svg/",
+    "type": ["Grass", "Psychic"]
+  },
+  {
+    "number": 104,
+    "name": "cubone",
+    "url": "https://tinyurl.com/ironhack-pokemons/104.svg/",
+    "type": ["Ground"]
+  },
+  {
+    "number": 105,
+    "name": "marowak",
+    "url": "https://tinyurl.com/ironhack-pokemons/105.svg/",
+    "type": ["Ground"]
+  },
+  {
+    "number": 106,
+    "name": "hitmonlee",
+    "url": "https://tinyurl.com/ironhack-pokemons/106.svg/",
+    "type": ["Fighting"]
+  },
+  {
+    "number": 107,
+    "name": "hitmonchan",
+    "url": "https://tinyurl.com/ironhack-pokemons/107.svg/",
+    "type": ["Fighting"]
+  },
+  {
+    "number": 108,
+    "name": "lickitung",
+    "url": "https://tinyurl.com/ironhack-pokemons/108.svg/",
+    "type": ["Normal"]
+  },
+  {
+    "number": 109,
+    "name": "koffing",
+    "url": "https://tinyurl.com/ironhack-pokemons/109.svg/",
+    "type": ["Poison"]
+  },
+  {
+    "number": 110,
+    "name": "weezing",
+    "url": "https://tinyurl.com/ironhack-pokemons/110.svg/",
+    "type": ["Poison"]
+  },
+  {
+    "number": 111,
+    "name": "rhyhorn",
+    "url": "https://tinyurl.com/ironhack-pokemons/111.svg/",
+    "type": ["Ground", "Rock"]
+  },
+  {
+    "number": 112,
+    "name": "rhydon",
+    "url": "https://tinyurl.com/ironhack-pokemons/112.svg/",
+    "type": ["Ground", "Rock"]
+  },
+  {
+    "number": 113,
+    "name": "chansey",
+    "url": "https://tinyurl.com/ironhack-pokemons/113.svg/",
+    "type": ["Normal"]
+  },
+  {
+    "number": 114,
+    "name": "tangela",
+    "url": "https://tinyurl.com/ironhack-pokemons/114.svg/",
+    "type": ["Grass"]
+  },
+  {
+    "number": 115,
+    "name": "kangaskhan",
+    "url": "https://tinyurl.com/ironhack-pokemons/115.svg/",
+    "type": ["Normal"]
+  },
+  {
+    "number": 116,
+    "name": "horsea",
+    "url": "https://tinyurl.com/ironhack-pokemons/116.svg/",
+    "type": ["Water"]
+  },
+  {
+    "number": 117,
+    "name": "seadra",
+    "url": "https://tinyurl.com/ironhack-pokemons/117.svg/",
+    "type": ["Water"]
+  },
+  {
+    "number": 118,
+    "name": "goldeen",
+    "url": "https://tinyurl.com/ironhack-pokemons/118.svg/",
+    "type": ["Water"]
+  },
+  {
+    "number": 119,
+    "name": "seaking",
+    "url": "https://tinyurl.com/ironhack-pokemons/119.svg/",
+    "type": ["Water"]
+  },
+  {
+    "number": 120,
+    "name": "staryu",
+    "url": "https://tinyurl.com/ironhack-pokemons/120.svg/",
+    "type": ["Water"]
+  },
+  {
+    "number": 121,
+    "name": "starmie",
+    "url": "https://tinyurl.com/ironhack-pokemons/121.svg/",
+    "type": ["Water", "Psychic"]
+  },
+  {
+    "number": 122,
+    "name": "mr-mime",
+    "url": "https://tinyurl.com/ironhack-pokemons/122.svg/",
+    "type": ["Psychic", "Fairy"]
+  },
+  {
+    "number": 123,
+    "name": "scyther",
+    "url": "https://tinyurl.com/ironhack-pokemons/123.svg/",
+    "type": ["Bug", "Flying"]
+  },
+  {
+    "number": 124,
+    "name": "jynx",
+    "url": "https://tinyurl.com/ironhack-pokemons/124.svg/",
+    "type": ["Ice", "Psychic"]
+  },
+  {
+    "number": 125,
+    "name": "electabuzz",
+    "url": "https://tinyurl.com/ironhack-pokemons/125.svg/",
+    "type": ["Electric"]
+  },
+  {
+    "number": 126,
+    "name": "magmar",
+    "url": "https://tinyurl.com/ironhack-pokemons/126.svg/",
+    "type": ["Fire"]
+  },
+  {
+    "number": 127,
+    "name": "pinsir",
+    "url": "https://tinyurl.com/ironhack-pokemons/127.svg/",
+    "type": ["Bug"]
+  },
+  {
+    "number": 128,
+    "name": "tauros",
+    "url": "https://tinyurl.com/ironhack-pokemons/128.svg/",
+    "type": ["Normal"]
+  },
+  {
+    "number": 129,
+    "name": "magikarp",
+    "url": "https://tinyurl.com/ironhack-pokemons/129.svg/",
+    "type": ["Water"]
+  },
+  {
+    "number": 130,
+    "name": "gyarados",
+    "url": "https://tinyurl.com/ironhack-pokemons/130.svg/",
+    "type": ["Water", "Flying"]
+  },
+  {
+    "number": 131,
+    "name": "lapras",
+    "url": "https://tinyurl.com/ironhack-pokemons/131.svg/",
+    "type": ["Water", "Ice"]
+  },
+  {
+    "number": 132,
+    "name": "ditto",
+    "url": "https://tinyurl.com/ironhack-pokemons/132.svg/",
+    "type": ["Normal"]
+  },
+  {
+    "number": 133,
+    "name": "eevee",
+    "url": "https://tinyurl.com/ironhack-pokemons/133.svg/",
+    "type": ["Normal"]
+  },
+  {
+    "number": 134,
+    "name": "vaporeon",
+    "url": "https://tinyurl.com/ironhack-pokemons/134.svg/",
+    "type": ["Water"]
+  },
+  {
+    "number": 135,
+    "name": "jolteon",
+    "url": "https://tinyurl.com/ironhack-pokemons/135.svg/",
+    "type": ["Electric"]
+  },
+  {
+    "number": 136,
+    "name": "flareon",
+    "url": "https://tinyurl.com/ironhack-pokemons/136.svg/",
+    "type": ["Fire"]
+  },
+  {
+    "number": 137,
+    "name": "porygon",
+    "url": "https://tinyurl.com/ironhack-pokemons/137.svg/",
+    "type": ["Normal"]
+  },
+  {
+    "number": 138,
+    "name": "omanyte",
+    "url": "https://tinyurl.com/ironhack-pokemons/138.svg/",
+    "type": ["Rock", "Water"]
+  },
+  {
+    "number": 139,
+    "name": "omastar",
+    "url": "https://tinyurl.com/ironhack-pokemons/139.svg/",
+    "type": ["Rock", "Water"]
+  },
+  {
+    "number": 140,
+    "name": "kabuto",
+    "url": "https://tinyurl.com/ironhack-pokemons/140.svg/",
+    "type": ["Rock", "Water"]
+  },
+  {
+    "number": 141,
+    "name": "kabutops",
+    "url": "https://tinyurl.com/ironhack-pokemons/141.svg/",
+    "type": ["Rock", "Water"]
+  },
+  {
+    "number": 142,
+    "name": "aerodactyl",
+    "url": "https://tinyurl.com/ironhack-pokemons/142.svg/",
+    "type": ["Rock", "Flying"]
+  },
+  {
+    "number": 143,
+    "name": "snorlax",
+    "url": "https://tinyurl.com/ironhack-pokemons/143.svg/",
+    "type": ["Normal"]
+  },
+  {
+    "number": 144,
+    "name": "articuno",
+    "url": "https://tinyurl.com/ironhack-pokemons/144.svg/",
+    "type": ["Ice", "Flying"]
+  },
+  {
+    "number": 145,
+    "name": "zapdos",
+    "url": "https://tinyurl.com/ironhack-pokemons/145.svg/",
+    "type": ["Electric", "Flying"]
+  },
+  {
+    "number": 146,
+    "name": "moltres",
+    "url": "https://tinyurl.com/ironhack-pokemons/146.svg/",
+    "type": ["Fire", "Flying"]
+  },
+  {
+    "number": 147,
+    "name": "dratini",
+    "url": "https://tinyurl.com/ironhack-pokemons/147.svg/",
+    "type": ["Dragon"]
+  },
+  {
+    "number": 148,
+    "name": "dragonair",
+    "url": "https://tinyurl.com/ironhack-pokemons/148.svg/",
+    "type": ["Dragon"]
+  },
+  {
+    "number": 149,
+    "name": "dragonite",
+    "url": "https://tinyurl.com/ironhack-pokemons/149.svg/",
+    "type": ["Dragon", "Flying"]
+  },
+  {
+    "number": 150,
+    "name": "mewtwo",
+    "url": "https://tinyurl.com/ironhack-pokemons/150.svg/",
+    "type": ["Psychic"]
+  },
+  {
+    "number": 151,
+    "name": "mew",
+    "url": "https://tinyurl.com/ironhack-pokemons/151.svg/",
+    "type": ["Psychic"]
+  }
+]
